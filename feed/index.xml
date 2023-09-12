@@ -9,8 +9,8 @@
 
 <channel>
 	<title>lizartworks</title>
-	<atom:link href="httplizartworks/feed/" rel="self" type="application/rss+xml" />
-	<link>httplizartworks/</link>
+	<atom:link href="hmenorjr.github.io/lizartworks//feed/" rel="self" type="application/rss+xml" />
+	<link>hmenorjr.github.io/lizartworks//</link>
 	<description></description>
 	<lastBuildDate>Tue, 12 Sep 2023 12:36:05 +0000</lastBuildDate>
 	<language>en-US</language>
