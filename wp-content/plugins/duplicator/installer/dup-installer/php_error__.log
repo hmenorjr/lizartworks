@@ -1,0 +1,11 @@
+[12-Sep-2023 14:42:07 UTC] PHP ERROR LOG INIT
+[12-Sep-2023 14:42:07 UTC] PHP Fatal error:  Uncaught Error: Class "Duplicator\Libs\Snap\SnapURL" not found in /Users/jmenor/Sites/lizartworks/app/public/wp-content/plugins/duplicator/installer/dup-installer/src/Core/Bootstrap.php:65
+Stack trace:
+#0 /Users/jmenor/Sites/lizartworks/app/public/wp-content/plugins/duplicator/installer/dup-installer/main.installer.php(51): Duplicator\Installer\Core\Bootstrap::init()
+#1 {main}
+  thrown in /Users/jmenor/Sites/lizartworks/app/public/wp-content/plugins/duplicator/installer/dup-installer/src/Core/Bootstrap.php on line 65
+[12-Sep-2023 16:07:45 UTC] PHP Fatal error:  Uncaught Error: Class "Duplicator\Libs\Snap\SnapURL" not found in /Users/jmenor/Sites/lizartworks/app/public/wp-content/plugins/duplicator/installer/dup-installer/src/Core/Bootstrap.php:65
+Stack trace:
+#0 /Users/jmenor/Sites/lizartworks/app/public/wp-content/plugins/duplicator/installer/dup-installer/main.installer.php(51): Duplicator\Installer\Core\Bootstrap::init()
+#1 {main}
+  thrown in /Users/jmenor/Sites/lizartworks/app/public/wp-content/plugins/duplicator/installer/dup-installer/src/Core/Bootstrap.php on line 65
