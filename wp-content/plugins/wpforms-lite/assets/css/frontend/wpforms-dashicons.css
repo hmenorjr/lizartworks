@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'WPForms';
-  src: url("httphmenorjr.github.io/lizartworks/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.eot");
-  src: url("httphmenorjr.github.io/lizartworks/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.eot#iefix") format("embedded-opentype"), url("httphmenorjr.github.io/lizartworks/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.woff2") format("woff2"), url("httphmenorjr.github.io/lizartworks/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.woff") format("woff"), url("httphmenorjr.github.io/lizartworks/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.ttf") format("truetype"), url("httphmenorjr.github.io/lizartworks/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.svg#wpforms") format("svg");
+  src: url("/lizartworks//wp-content/plugins/wpforms-lite/assets/fonts/wpforms.eot");
+  src: url("/lizartworks//wp-content/plugins/wpforms-lite/assets/fonts/wpforms.eot#iefix") format("embedded-opentype"), url("/lizartworks//wp-content/plugins/wpforms-lite/assets/fonts/wpforms.woff2") format("woff2"), url("/lizartworks//wp-content/plugins/wpforms-lite/assets/fonts/wpforms.woff") format("woff"), url("/lizartworks//wp-content/plugins/wpforms-lite/assets/fonts/wpforms.ttf") format("truetype"), url("/lizartworks//wp-content/plugins/wpforms-lite/assets/fonts/wpforms.svg#wpforms") format("svg");
   font-weight: normal;
   font-style: normal;
 }
